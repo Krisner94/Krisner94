@@ -16,7 +16,6 @@ E tenho um interesse muito grande em desenvolvimento Android nativo.
 
 <br>
 <br>
-<br>
 
 ## Sobre
 Estudo programação há mais de 5 anos e estou atualemtente no 4° período da faculdade de Sistemas de Informação.
